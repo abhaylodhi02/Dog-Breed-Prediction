@@ -12,7 +12,7 @@ Dog Classification datset on Kaggle.
     no significant improvement in evaluation metrics (accuracy) is witnessed.
 
 # Results:
-1. Achieved an overall accuracy over 99% for dog breed prediction.
+1. Achieved an overall accuracy over 99% for dog breed dataset of length 10,000 having 120 distinct dog breeds.
 
 # Tools:
 Language: Pyhton.

@@ -16,7 +16,11 @@ Dog Classification datset on Kaggle.
 
 # Tools:
 Language: Pyhton.
+
 Libraries: NumPy, Pandas, Matplotlib, TensorFlow, Keras, Scikit Learn.
+
 Transfer: MobileNet V2.
+
 Domain: Computer Vision
+
 Platform: Google Colab Workspace
